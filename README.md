@@ -34,6 +34,9 @@ Linear regression underfit the curvature in the data
 Kernel regression fit the pattern more flexibly, but produced higher prediction error
 Polynomial regression captured the nonlinearity while maintaining lower cross-validation error
 
+### Model Comparison Results
+![Results](results_table.png)
+
 ## Key Insight
 
 A model that looks better visually does not always predict better. Cross-validation showed that polynomial regression outperformed both the simpler linear model and the more flexible kernel regression.
