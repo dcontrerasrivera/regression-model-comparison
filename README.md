@@ -1,5 +1,5 @@
-Regression Model Comparison
-Overview
+## Regression Model Comparison
+# Overview
 
 This project compares multiple regression approaches for predicting trout weight from length and evaluates their predictive performance using cross-validation.
 
