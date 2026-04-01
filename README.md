@@ -15,6 +15,17 @@ Model performance was assessed with:
 Leave-One-Out Cross-Validation (LOOCV)
 5-Fold Cross-Validation
 
+## Visualizations
+
+### Linear Regression
+![Linear Regression](linear_regression.png)
+
+### Kernel Regression
+![Kernel Regression](kernel_regression.png)
+
+### Polynomial Regression
+![Polynomial Regression](polynomial_regression.png)
+
 ## Results
 
 The polynomial regression model achieved the lowest prediction error and provided the best balance between flexibility and generalization.
